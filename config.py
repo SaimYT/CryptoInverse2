@@ -65,8 +65,8 @@ PAYMENT_TIMEOUT = 300
 PAYMENT_CHECK_INTERVAL = 10
 
 # ========== МИНИМАЛЬНАЯ СУММА ==========
-MIN_USD = 6
-MIN_RUB = 500
+MIN_USD = 10
+MIN_RUB = 1000
 
 # ========== НАЦЕНКИ И СКИДКИ ==========
 SELL_MULTIPLIER = 0.85
